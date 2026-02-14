@@ -1,0 +1,11 @@
+@import "tailwindcss";
+#root {
+  padding: 0 !important;
+  height: 100vh !important;
+  width: 100vw !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #fff5f9 !important; */
+  background-image: url("blob:https://www.facebook.com/e770396d-96b4-499e-aa2a-bcbb88c5a73e");
+}
